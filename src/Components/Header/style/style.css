@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.nav-bg{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(103, 93, 80, 0.8);
+}
+.menu-button {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .menu-items {
+    transition: opacity 0.3s, transform 0.3s;
+  }

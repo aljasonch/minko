@@ -1,0 +1,21 @@
+.halaman {
+  width: 180px;
+  margin-right: 16px;
+}
+.halaman1 {
+  width: 180px;
+  margin-right: 16px;
+}
+@media (max-width: 640px) {
+  .halaman {
+    width: 80%; 
+  margin: auto;
+  }
+  .halaman1 {
+    width: 100%; 
+  margin: auto;
+  }
+  .scroll-pl-4 {
+    overflow-x: scroll;
+  }
+}

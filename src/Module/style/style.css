@@ -1,0 +1,19 @@
+.hidden-css{
+  opacity: 0;
+  transition: 1s ease-in-out;
+  transform: translateY(50%);
+}
+.show-css{
+  opacity: 1;
+  transform: translateY(0%);
+}
+.blur-bg1 {
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(243, 222, 186);
+}
+.blur-bg2{
+  background-color: rgb(243, 222, 186);
+}
+.blur-bg3{
+  background-color: rgb(243, 222, 186);
+}

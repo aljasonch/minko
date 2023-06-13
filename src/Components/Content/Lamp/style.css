@@ -1,0 +1,28 @@
+button {
+  font-size: 0.8rem;
+  font-weight: 700;
+  outline: none;
+  background-color: rgb(33, 33, 33);
+  color: rgb(233, 233, 233);
+  padding: 13px 30px;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: rgb(67, 67, 67);
+}
+
+.halaman {
+  width: 180px; 
+  margin-right: 16px; 
+}
+
+@media (max-width: 640px) {
+  .halaman {
+    width: 100%; 
+    margin-right: 0;
+  }
+}
+
