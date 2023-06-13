@@ -80,7 +80,7 @@ export default function Login({ onLogin, onLoginGoogle}) {
                 </label>
                 <div className="text-sm">
                   <a
-                    href="/uas"
+                    href="/"
                     className="font-semibold text-gray-600 hover:text-gray-500"
                   >
                     Forgot password?
